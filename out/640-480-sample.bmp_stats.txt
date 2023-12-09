@@ -1,0 +1,9 @@
+nume poza: 640-480-sample.bmp
+inaltime: 480
+lungime: 640
+dimensiune: 921656
+identificatorul utilizatorului: 501
+timpul ultimei modificari: Sat Dec  9 14:35:04 2023contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: R--
+drepturi de acces altii: R--

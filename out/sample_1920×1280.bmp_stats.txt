@@ -1,0 +1,11 @@
+file name: sample_1920×1280.bmp
+height: 65536
+width: 83886080
+size: 7372938
+user id: 501
+time of last modification: Sat Dec  9 03:43:33 2023
+number of hard links: 1
+user permissions: RW-
+group permissions: R--
+others permissions: R--
+

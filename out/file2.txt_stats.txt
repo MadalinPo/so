@@ -1,0 +1,9 @@
+file name: file2.txt
+size: 51
+user id: 501
+time of last modification: Sat Dec  9 03:43:32 2023
+number of hard links: 1
+user permissions: RW-
+group permissions: R--
+others permissions: R--
+
